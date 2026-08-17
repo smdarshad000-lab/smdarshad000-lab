@@ -10,8 +10,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing **MCA (AI & ML)**, Semester III, at **UPES Dehradun**
-- 💼 Interning at **Amaippu**, working on **Suthiram** — a parametric furniture engine
-- 🤖 Building an AI agent pipeline that converts text prompts & images into parametric `.suthras` furniture files
 - 📚 Deep in **DSA prep** — building pattern-based reference notes (Striver's A2Z, NeetCode 150, LeetCode Top 150) with C++ solutions
 - 🌱 Also exploring Computer Networks & Design Patterns as part of my coursework
 - 💡 I like building things end-to-end — from backend logic to the UI that sits on top of it
